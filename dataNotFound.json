@@ -1,6 +1,5 @@
 {
-  "error" : {
-    "message" : "Data not found"
-  },
+  "message" : "Data Not Found",
+  "error": 1,
   "status" : 404
 }
