@@ -1,0 +1,48 @@
+{
+  "data" : [
+    {
+      "id": 1,
+      "name": "Fadilatur",
+      "position": "Chief Executive Officier",
+      "employee_no" : "123456",
+      "photo": "https://www.wallpapertip.com/wmimgs/0-8379_best-wallpapers-for-all-iphone-retina-one-punch.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Dani Susanto",
+      "position": "Chief Human Resource",
+      "employee_no" : "123451",
+      "photo": "https://www.wallpapertip.com/wmimgs/0-8379_best-wallpapers-for-all-iphone-retina-one-punch.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Nanda Rizki",
+      "position": "Chief Finance Officer",
+      "employee_no" : "123452",
+      "photo": "https://www.wallpapertip.com/wmimgs/0-8379_best-wallpapers-for-all-iphone-retina-one-punch.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Alif Abrar Arifin",
+      "position": "Chief Technology Officer",
+      "employee_no" : "123453",
+      "photo": "https://www.wallpapertip.com/wmimgs/0-8379_best-wallpapers-for-all-iphone-retina-one-punch.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Ario Baruna",
+      "position": "Lead Front End Developer",
+      "employee_no" : "123454",
+      "photo": "https://www.wallpapertip.com/wmimgs/0-8379_best-wallpapers-for-all-iphone-retina-one-punch.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Yossa",
+      "position": "Front End Developer",
+      "employee_no" : "123455",
+      "photo": "https://www.wallpapertip.com/wmimgs/0-8379_best-wallpapers-for-all-iphone-retina-one-punch.jpg"
+    }
+  ],
+  "status" : 200,
+  "error" : 0
+}
