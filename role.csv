@@ -1,52 +1,52 @@
 {
-  "data": [
+"  ""data"": ["
     {
-      "id": 1,
-      "parent_id": 0,
-      "role": "CEO",
-      "child" : [
+"      ""id"": 1"
+"      ""parent_id"": 0"
+"      ""role"": ""CEO"""
+"      ""children"" : ["
         {
-          "id": 2,
-          "parent_id": 1,
-          "role": "Chief Human Resource",
-          "child" : [
+"          ""id"": 2"
+"          ""parent_id"": 1"
+"          ""role"": ""Chief Human Resource"""
+"          ""children"" : ["
             {
-              "id": 5,
-              "parent_id": 2,
-              "role": "Chief Human Capital",
-              "child" : []
+"              ""id"": 5"
+"              ""parent_id"": 2"
+"              ""role"": ""Chief Human Capital"""
+"              ""children"" : []"
             }
           ]
-        },
+        }
         {
-          "id": 3,
-          "parent_id": 1,
-          "role": "Chief Finance Officer",
-          "child" : [
+"          ""id"": 3"
+"          ""parent_id"": 1"
+"          ""role"": ""Chief Finance Officer"""
+"          ""children"" : ["
             {
-              "id": 6,
-              "parent_id": 3,
-              "role": "Chief Human Capital",
-              "child" : []
+"              ""id"": 6"
+"              ""parent_id"": 3"
+"              ""role"": ""Chief Human Capital"""
+"              ""children"" : []"
             }
           ]
-        },
+        }
         {
-          "id": 4,
-          "parent_id": 1,
-          "role": "Chief Technology Officer",
-          "child" : [
+"          ""id"": 4"
+"          ""parent_id"": 1"
+"          ""role"": ""Chief Technology Officer"""
+"          ""children"" : ["
              {
-              "id": 6,
-              "parent_id": 4,
-              "role": "Chief IT Development",
-              "child" : []
+"              ""id"": 6"
+"              ""parent_id"": 4"
+"              ""role"": ""Chief IT Development"""
+"              ""children"" : []"
             }
           ]
         }
       ]
     }
-  ],
-  "status": 200,
-  "error": 0
+  ]
+"  ""status"": 200"
+"  ""error"": 0"
 }

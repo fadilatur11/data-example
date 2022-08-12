@@ -4,17 +4,23 @@
       "id": 1,
       "parent_id": 0,
       "role": "CEO",
-      "child" : [
+      "name": "Ario Baruna",
+      "photo" : "https://id.wikipedia.org/wiki/Lee_Jong-suk#/media/Berkas:Lee_Jong-suk_March_2018.png",
+      "children" : [
         {
           "id": 2,
           "parent_id": 1,
           "role": "Chief Human Resource",
-          "child" : [
+          "name": "Dani Susanto",
+          "photo" : "https://id.wikipedia.org/wiki/Lee_Jong-suk#/media/Berkas:Lee_Jong-suk_March_2018.png",
+          "children" : [
             {
               "id": 5,
               "parent_id": 2,
               "role": "Chief Human Capital",
-              "child" : []
+              "name": "Nanda Rizki",
+              "photo" : "https://id.wikipedia.org/wiki/Lee_Jong-suk#/media/Berkas:Lee_Jong-suk_March_2018.png",
+              "children" : []
             }
           ]
         },
@@ -22,12 +28,16 @@
           "id": 3,
           "parent_id": 1,
           "role": "Chief Finance Officer",
-          "child" : [
+          "name": "Alfian Imanuddin",
+          "photo" : "https://id.wikipedia.org/wiki/Lee_Jong-suk#/media/Berkas:Lee_Jong-suk_March_2018.png",
+          "children" : [
             {
               "id": 6,
               "parent_id": 3,
               "role": "Chief Human Capital",
-              "child" : []
+              "name": "Alif Abrar",
+              "photo" : "https://id.wikipedia.org/wiki/Lee_Jong-suk#/media/Berkas:Lee_Jong-suk_March_2018.png",
+              "children" : []
             }
           ]
         },
@@ -35,12 +45,16 @@
           "id": 4,
           "parent_id": 1,
           "role": "Chief Technology Officer",
-          "child" : [
+          "name": "Rahardian Arya",
+          "photo" : "https://id.wikipedia.org/wiki/Lee_Jong-suk#/media/Berkas:Lee_Jong-suk_March_2018.png",
+          "children" : [
              {
               "id": 6,
               "parent_id": 4,
               "role": "Chief IT Development",
-              "child" : []
+              "name": "Dwi Wahyudi",
+              "photo" : "https://id.wikipedia.org/wiki/Lee_Jong-suk#/media/Berkas:Lee_Jong-suk_March_2018.png",
+              "children" : []
             }
           ]
         }
