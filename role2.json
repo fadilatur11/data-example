@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "parent_id": 0,
+      "role": "CEO"
+    },
+    {
+      "id": 2,
+      "parent_id": 1,
+      "role": "Chief Human Resource"
+    },
+    {
+      "id": 3,
+      "parent_id": 1,
+      "role": "Chief Finance Resource"
+    },
+    {
+      "id": 4,
+      "parent_id": 1,
+      "role": "Chief Technology Officer"
+    },
+    {
+      "id": 5,
+      "parent_id": 2,
+      "role": "GM Human Capital"
+    }
+  ],
+  "status": 200,
+  "error": 0
+}
