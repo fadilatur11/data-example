@@ -6,59 +6,71 @@
       "role": "CEO",
       "name": "Ario Baruna",
       "photo" : "https://id.wikipedia.org/wiki/Lee_Jong-suk#/media/Berkas:Lee_Jong-suk_March_2018.png",
-      "children" : [
-        {
-          "id": 2,
-          "parent_id": 1,
-          "role": "Chief Human Resource",
-          "name": "Dani Susanto",
-          "photo" : "https://id.wikipedia.org/wiki/Lee_Jong-suk#/media/Berkas:Lee_Jong-suk_March_2018.png",
-          "children" : [
-            {
-              "id": 5,
-              "parent_id": 2,
-              "role": "Chief Human Capital",
-              "name": "Nanda Rizki",
-              "photo" : "https://id.wikipedia.org/wiki/Lee_Jong-suk#/media/Berkas:Lee_Jong-suk_March_2018.png",
-              "children" : []
-            }
-          ]
-        },
-        {
-          "id": 3,
-          "parent_id": 1,
-          "role": "Chief Finance Officer",
-          "name": "Alfian Imanuddin",
-          "photo" : "https://id.wikipedia.org/wiki/Lee_Jong-suk#/media/Berkas:Lee_Jong-suk_March_2018.png",
-          "children" : [
-            {
-              "id": 6,
-              "parent_id": 3,
-              "role": "Chief Human Capital",
-              "name": "Alif Abrar",
-              "photo" : "https://id.wikipedia.org/wiki/Lee_Jong-suk#/media/Berkas:Lee_Jong-suk_March_2018.png",
-              "children" : []
-            }
-          ]
-        },
-        {
-          "id": 4,
-          "parent_id": 1,
-          "role": "Chief Technology Officer",
-          "name": "Rahardian Arya",
-          "photo" : "https://id.wikipedia.org/wiki/Lee_Jong-suk#/media/Berkas:Lee_Jong-suk_March_2018.png",
-          "children" : [
-             {
-              "id": 6,
-              "parent_id": 4,
-              "role": "Chief IT Development",
-              "name": "Dwi Wahyudi",
-              "photo" : "https://id.wikipedia.org/wiki/Lee_Jong-suk#/media/Berkas:Lee_Jong-suk_March_2018.png",
-              "children" : []
-            }
-          ]
-        }
-      ]
+      "total_direct":4,
+      "total_successor":15
+    },
+    {
+      "id": 2,
+      "parent_id": 1,
+      "role": "Chief Human Resource",
+      "name": "Dani Susanto",
+      "photo" : "https://id.wikipedia.org/wiki/Lee_Jong-suk#/media/Berkas:Lee_Jong-suk_March_2018.png",
+      "total_direct":4,
+      "total_successor":15
+    },
+    {
+      "id": 3,
+      "parent_id": 1,
+      "role": "Chief Finance Officier",
+      "name": "Vicko",
+      "photo" : "https://id.wikipedia.org/wiki/Lee_Jong-suk#/media/Berkas:Lee_Jong-suk_March_2018.png",
+      "total_direct":4,
+      "total_successor":15
+    },
+    {
+      "id": 4,
+      "parent_id": 1,
+      "role": "Chief Technology Officier",
+      "name": "Ferdy Samba",
+      "photo" : "https://id.wikipedia.org/wiki/Lee_Jong-suk#/media/Berkas:Lee_Jong-suk_March_2018.png",
+      "total_direct":4,
+      "total_successor":15
+    },
+    {
+      "id": 5,
+      "parent_id": 2,
+      "role": "GM Human Capital",
+      "name": "Bambang Syalala",
+      "photo" : "https://id.wikipedia.org/wiki/Lee_Jong-suk#/media/Berkas:Lee_Jong-suk_March_2018.png",
+      "total_direct":4,
+      "total_successor":15
+    },
+    {
+      "id": 6,
+      "parent_id": 3,
+      "role": "GM Accounting",
+      "name": "Setya Novanti",
+      "photo" : "https://id.wikipedia.org/wiki/Lee_Jong-suk#/media/Berkas:Lee_Jong-suk_March_2018.png",
+      "total_direct":4,
+      "total_successor":15
+    },
+    {
+      "id": 7,
+      "parent_id": 4,
+      "role": "GM IT Development",
+      "name": "Setya Novanti",
+      "photo" : "https://id.wikipedia.org/wiki/Lee_Jong-suk#/media/Berkas:Lee_Jong-suk_March_2018.png",
+      "total_direct":4,
+      "total_successor":15
+    },
+    {
+      "id": 8,
+      "parent_id": 4,
+      "role": "GM Marketing",
+      "name": "Setya Novanti",
+      "photo" : "https://id.wikipedia.org/wiki/Lee_Jong-suk#/media/Berkas:Lee_Jong-suk_March_2018.png",
+      "total_direct":4,
+      "total_successor":15
     }
   ],
   "status": 200,
