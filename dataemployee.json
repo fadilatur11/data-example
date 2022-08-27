@@ -3,32 +3,32 @@
     {
       "personnel_number": "11111111",
       "full_name": "Ahmad",
-      "position_id": "21111111",
-      "position_name": "IT Manager"
+      "position_id": "1250",
+      "position_name": "Admin QA/AC"
     },
     {
       "personnel_number": "11111112",
       "full_name": "Zainul",
-      "position_id": "21111112",
-      "position_name": "IT Analyst"
+      "position_id": "1546",
+      "position_name": "Advisor Manajemen Strategis"
     },
     {
       "personnel_number": "11111113",
       "full_name": "Abidin",
-      "position_id": "21111113",
-      "position_name": "HCIS Manager"
+      "position_id": "1426",
+      "position_name": "Ahli Madya"
     },
     {
       "personnel_number": "11111114",
       "full_name": "Bambang",
-      "position_id": "21111114",
-      "position_name": "Human Capital Specialist"
+      "position_id": "1428",
+      "position_name": "Ahli Pratama"
     },
     {
-      "personnel_number": "11111115",
+      "personnel_number": "1553",
       "full_name": "Joko",
       "position_id": "21111115",
-      "position_name": "Senior Human Capital Specialist"
+      "position_name": "Analyst"
     }
   ],
   "status" : 200,
